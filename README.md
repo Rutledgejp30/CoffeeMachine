@@ -11,5 +11,5 @@ of coins to equal or exceed that price. Refunds will be issued if the user is sh
 The machine has a limited supply of resources to make the drinks. When it does not have enough of a resource to 
 make a drink, it will display what resource it is low on.
 
-For maintanance purposes, the word "report" can be typed in place of a drink to see the available resources
+For maintenance purposes, the word "report" can be typed in place of a drink to see the available resources
 in the machine.
